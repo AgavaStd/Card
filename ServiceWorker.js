@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-WebAR-0.1";
 const contentToCache = [
-    "Build/build4.loader.js",
-    "Build/build4.framework.js.br",
-    "Build/build4.data.br",
-    "Build/build4.wasm.br",
+    "Build/build5.loader.js",
+    "Build/build5.framework.js",
+    "Build/build5.data",
+    "Build/build5.wasm",
     "TemplateData/style.css"
 
 ];
